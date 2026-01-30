@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &7911958063553848589
+--- !u!1 &1128269322262227229
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,43 +8,43 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3993631010281834794}
-  - component: {fileID: 2975935747357425570}
+  - component: {fileID: 8698155046484934180}
+  - component: {fileID: 6895619156379353660}
   m_Layer: 0
-  m_Name: UIManager
+  m_Name: ShowScoreboard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3993631010281834794
+--- !u!4 &8698155046484934180
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7911958063553848589}
+  m_GameObject: {fileID: 1128269322262227229}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -56.2381, y: 0, z: -4203.3325}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -411.36215, z: 0}
+  m_LocalScale: {x: 0.86114866, y: 0.86114866, z: 0.86114866}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2975935747357425570
+--- !u!114 &6895619156379353660
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7911958063553848589}
+  m_GameObject: {fileID: 1128269322262227229}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47e324b2dbb7acb4cbcf058f84ad5dda, type: 3}
+  m_Script: {fileID: 11500000, guid: 6130afa3cd883ec49a3f135baef121f0, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::UIManager
-  splashPanel: {fileID: 0}
-  loadingPanel: {fileID: 0}
-  homePanel: {fileID: 0}
-  splashDuration: 2.5
+  m_EditorClassIdentifier: Assembly-CSharp::ShowScoreboard
+  scoreboardPanel: {fileID: 0}
+  delay: 15
+  autoLoadDelay: 20
+  nextSceneName: 2.P2
