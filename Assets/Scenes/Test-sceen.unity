@@ -313,6 +313,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4762203288883624561, guid: 45840ce98cbce5d48b7f77283c54e582, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 400
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762203288883624561, guid: 45840ce98cbce5d48b7f77283c54e582, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 300
+      objectReference: {fileID: 0}
     - target: {fileID: 4865897642270004983, guid: 45840ce98cbce5d48b7f77283c54e582, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -397,6 +405,10 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7543674751670062644, guid: 45840ce98cbce5d48b7f77283c54e582, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ffb8c177aee9a2e40811033d60f4003e, type: 3}
     - target: {fileID: 8602100906466309322, guid: 45840ce98cbce5d48b7f77283c54e582, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -441,6 +453,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 8791695230642082936, guid: 45840ce98cbce5d48b7f77283c54e582, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8cacbccdfac22164682b348fbd08c5e5, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:

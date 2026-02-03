@@ -781,8 +781,12 @@ PrefabInstance:
       value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2289472263208318138, guid: 387fd24c2f7894edda38d6a32949b730, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 2289472263208318138, guid: 387fd24c2f7894edda38d6a32949b730, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 180
+      value: 150
       objectReference: {fileID: 0}
     - target: {fileID: 2289472263208318138, guid: 387fd24c2f7894edda38d6a32949b730, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1045,10 +1049,10 @@ PrefabInstance:
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 1172975586841175397, guid: fc8d09a8a76486e4b9602297ef58abd5, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1718141651}
+      addedObject: {fileID: 1051356335}
     - targetCorrespondingSourceObject: {fileID: 1172975586841175397, guid: fc8d09a8a76486e4b9602297ef58abd5, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1051356335}
+      addedObject: {fileID: 1718141651}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 4657847145377530191, guid: fc8d09a8a76486e4b9602297ef58abd5, type: 3}
       insertIndex: -1

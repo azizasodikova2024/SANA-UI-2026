@@ -821,7 +821,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 432282e50e9e0274fb9bff15786ee422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ContinueButton
-  nextScene: Main_Menu_Sceen
+  nextScene: Test-sceen
 --- !u!1 &1746109855
 GameObject:
   m_ObjectHideFlags: 0
