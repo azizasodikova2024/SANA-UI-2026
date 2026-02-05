@@ -602,6 +602,10 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5661700261898260422, guid: b43820dc3caac8c4c889c8f57a8429f3, type: 3}
+      propertyPath: m_text
+      value: "\u0416\u0430\u043B\u0493\u0430\u0441\u0442\u044B\u0440\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5661700261898260422, guid: b43820dc3caac8c4c889c8f57a8429f3, type: 3}
       propertyPath: m_HorizontalAlignment
       value: 2
       objectReference: {fileID: 0}

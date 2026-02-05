@@ -653,6 +653,26 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5075719551037274237, guid: 18f622523e973d542aaec4f3a1366b3c, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 5075719551037274237, guid: 18f622523e973d542aaec4f3a1366b3c, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 5075719552100538906, guid: 18f622523e973d542aaec4f3a1366b3c, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 5075719552100538906, guid: 18f622523e973d542aaec4f3a1366b3c, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 5075719552100538907, guid: 18f622523e973d542aaec4f3a1366b3c, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d4e4d977bd097ff4e8060e31669bb9e2, type: 3}
     - target: {fileID: 7196126041917978513, guid: 18f622523e973d542aaec4f3a1366b3c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2

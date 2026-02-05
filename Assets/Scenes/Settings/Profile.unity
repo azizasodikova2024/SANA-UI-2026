@@ -538,6 +538,22 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2743039337051986889, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2743039337051986889, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2743039337051986889, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2743039337051986889, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3378967911016629571, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -575,6 +591,22 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7362437682804160620, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7407020279394202688, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7407020279394202688, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7407020279394202688, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7407020279394202688, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
@@ -656,6 +688,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8543619194285089721, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8587432002770785698, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8587432002770785698, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8587432002770785698, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8587432002770785698, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
+      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8644784653018322761, guid: 660d8d80e30fe7d438c4449a89b0f9d5, type: 3}
@@ -1541,7 +1589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 432282e50e9e0274fb9bff15786ee422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ContinueButton
-  nextScene: Create_Avatar
+  nextScene: Settings
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

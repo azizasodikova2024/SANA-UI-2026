@@ -278,7 +278,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 375606394009272079, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
       propertyPath: m_text
-      value: "\u0411\u0435\u0439\u0456\u043C\u0434\u0435\u043B\u0443"
+      value: "\u0422\u0456\u043B"
       objectReference: {fileID: 0}
     - target: {fileID: 375606394009272079, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
       propertyPath: m_fontSize
@@ -310,7 +310,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 737770333373449732, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
       propertyPath: m_text
-      value: "\u0416\u0430\u043B\u0493\u0430\u0441\u0442\u044B\u0440\u0443"
+      value: "\u041F\u0430\u0439\u0434\u0430\u043B\u0430\u043D\u0443 \u0448\u0430\u0440\u0442\u0442\u0430\u0440\u044B"
       objectReference: {fileID: 0}
     - target: {fileID: 737770333373449732, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
       propertyPath: m_fontSize
@@ -341,16 +341,24 @@ PrefabInstance:
       value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 985066738404692810, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 985066738404692810, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -250
       objectReference: {fileID: 0}
     - target: {fileID: 1375418086002626131, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 900
+      value: 1100
       objectReference: {fileID: 0}
     - target: {fileID: 1375418086002626131, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 50
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 1375418086002626131, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1375418086002626131, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -505,6 +513,10 @@ PrefabInstance:
       value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 5549967775540985394, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549967775540985394, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -400
       objectReference: {fileID: 0}
@@ -654,6 +666,10 @@ PrefabInstance:
       value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 9147086903195129251, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9147086903195129251, guid: 6323445bc2b7f214abf40de5c77e3ee7, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -100
       objectReference: {fileID: 0}
@@ -758,7 +774,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 432282e50e9e0274fb9bff15786ee422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ContinueButton
-  nextScene: 
+  nextScene: Terms&Conditions
 --- !u!1001 &1731990598
 PrefabInstance:
   m_ObjectHideFlags: 0

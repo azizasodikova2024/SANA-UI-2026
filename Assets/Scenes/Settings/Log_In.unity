@@ -1082,7 +1082,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 432282e50e9e0274fb9bff15786ee422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ContinueButton
-  nextScene: Main_Menu_Sceen
+  nextScene: Account_Settings
 --- !u!1 &1568085528 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5663336165480041554, guid: ce2e2a43abcc8d44bb0031eba6d4280f, type: 3}

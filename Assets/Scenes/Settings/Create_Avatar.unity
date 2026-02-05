@@ -1057,7 +1057,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 432282e50e9e0274fb9bff15786ee422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ContinueButton
-  nextScene: Profile
+  nextScene: Create_Profile
 --- !u!1001 &1901585247
 PrefabInstance:
   m_ObjectHideFlags: 0
