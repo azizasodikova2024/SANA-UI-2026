@@ -416,6 +416,14 @@ PrefabInstance:
       propertyPath: m_HorizontalAlignment
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 987845408648458518, guid: ce2e2a43abcc8d44bb0031eba6d4280f, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8745098
+      objectReference: {fileID: 0}
+    - target: {fileID: 987845408648458518, guid: ce2e2a43abcc8d44bb0031eba6d4280f, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8980392
+      objectReference: {fileID: 0}
     - target: {fileID: 1625755131407994522, guid: ce2e2a43abcc8d44bb0031eba6d4280f, type: 3}
       propertyPath: m_fontSize
       value: 30
@@ -808,6 +816,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5580976714616816620, guid: ce2e2a43abcc8d44bb0031eba6d4280f, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8745098
+      objectReference: {fileID: 0}
+    - target: {fileID: 5580976714616816620, guid: ce2e2a43abcc8d44bb0031eba6d4280f, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8980392
+      objectReference: {fileID: 0}
     - target: {fileID: 5875093121016158003, guid: ce2e2a43abcc8d44bb0031eba6d4280f, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1084,7 +1100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 432282e50e9e0274fb9bff15786ee422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ContinueButton
-  nextScene: Create_Profile
+  nextScene: Account_Settings
 --- !u!1001 &1701322982
 PrefabInstance:
   m_ObjectHideFlags: 0

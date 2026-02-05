@@ -923,7 +923,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SplashLoader
   loadingText: {fileID: 957203179}
-  nextSceneName: Onboarding
+  nextSceneName: Test
 --- !u!224 &1793043722 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1224178254743449210, guid: b4efdb571c10c504e9a28022888fe339, type: 3}

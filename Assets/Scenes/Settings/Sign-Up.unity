@@ -249,6 +249,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 758314400164212986, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8745098
+      objectReference: {fileID: 0}
+    - target: {fileID: 758314400164212986, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8980392
+      objectReference: {fileID: 0}
     - target: {fileID: 790392391950179527, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
       propertyPath: m_margin.w
       value: 58.233913
@@ -268,6 +276,14 @@ PrefabInstance:
     - target: {fileID: 871246158925242950, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
       propertyPath: m_margin.z
       value: 672.411
+      objectReference: {fileID: 0}
+    - target: {fileID: 1144831964369628641, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8745098
+      objectReference: {fileID: 0}
+    - target: {fileID: 1144831964369628641, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8980392
       objectReference: {fileID: 0}
     - target: {fileID: 1428239515181803392, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -557,6 +573,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 5908889774905378970, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8745098
+      objectReference: {fileID: 0}
+    - target: {fileID: 5908889774905378970, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8980392
+      objectReference: {fileID: 0}
     - target: {fileID: 5974371083610646967, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -608,6 +632,14 @@ PrefabInstance:
     - target: {fileID: 6325679932792763649, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 350
+      objectReference: {fileID: 0}
+    - target: {fileID: 6468484348057526116, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8745098
+      objectReference: {fileID: 0}
+    - target: {fileID: 6468484348057526116, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8980392
       objectReference: {fileID: 0}
     - target: {fileID: 6494535844694926810, guid: 6808fe0aba23ed548abe56fb287e613f, type: 3}
       propertyPath: m_Pivot.y

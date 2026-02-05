@@ -18,28 +18,28 @@ EditorBuildSettings:
     path: Assets/Scenes/Test-sceen.unity
     guid: 2e9a4e7f3318bb745a07cd070fe3bf89
   - enabled: 1
-    path: Assets/Scenes/P1/P1_01.unity
+    path: Assets/Scenes/ZR/P1-ZR.unity
     guid: 81491162b3318ab41b7f98d5a0a99898
   - enabled: 1
-    path: Assets/Scenes/P1/P1_02.unity
+    path: Assets/Scenes/ZR/P2-ZR.unity
     guid: d4025aa3ae09fa94ca6382f5065dffc0
   - enabled: 1
-    path: Assets/Scenes/P2/P2.01.unity
+    path: Assets/Scenes/KR/P1-KR.unity
     guid: b9769e2062f670642afe4abfdc75fbc7
   - enabled: 1
-    path: Assets/Scenes/P2/P2.02.unity
+    path: Assets/Scenes/KR/P2-KR.unity
     guid: 7b65648f710efd94eafb4aabb770b30b
   - enabled: 1
     path: Assets/Scenes/Main_Menu_Sceen.unity
     guid: 0332bb85030fd2140ab9bba49692ebd6
   - enabled: 1
-    path: Assets/Scenes/P1/P1_03.unity
+    path: Assets/Scenes/ZR/P3-ZR.unity
     guid: 221db55bdc64dcd4fa3744b59327c268
   - enabled: 1
-    path: Assets/Scenes/P2/P2.03.unity
+    path: Assets/Scenes/KR/P3-KR.unity
     guid: e31455992f397a74ab636515bf114603
   - enabled: 1
-    path: Assets/Scenes/P3/P3.03.unity
+    path: Assets/Scenes/KG/P3-KG.unity
     guid: cc5d3c926f779134da5219c740f48ca2
   - enabled: 1
     path: Assets/Scenes/Settings/Sign-Up.unity
@@ -72,11 +72,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Settings/Settings.unity
     guid: 75d85c7fc0613804a86d9e7966a08316
   - enabled: 1
-    path: Assets/Scenes/P3/P3.01.unity
+    path: Assets/Scenes/KG/P1-KG.unity
     guid: ae20aa0626989254ba3b3beaf4aef69f
   - enabled: 1
-    path: Assets/Scenes/P3/P3.02.unity
+    path: Assets/Scenes/KG/P2-KG.unity
     guid: ec2a8b65c384b6449b561f7d3943c777
+  - enabled: 1
+    path: Assets/Scenes/Test.unity
+    guid: 2e6878932327de44f80e9952ef4bd2d5
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
